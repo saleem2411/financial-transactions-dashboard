@@ -1,4 +1,4 @@
-# financial-transactions-dashboard
+# Financial-Transactions-Dashboard
 # Project Objective
 The objective of this project is to develop an interactive Power BI dashboard that provides actionable insights into financial transactions. It aims to track and analyze payments, credits, and debits by customer, status, and category, highlight top contributors, and monitor monthly trends—enabling data-driven financial decision-making and improved transparency.
 # Dataset Used
